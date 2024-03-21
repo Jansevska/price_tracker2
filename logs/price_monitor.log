@@ -1,0 +1,3 @@
+logs/: This directory will store log files related to price checks and notifications. It's useful for debugging and tracking the application's history.
+Logging will be implemented in various components to track the application's operation and any price changes detected.
+
